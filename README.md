@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasco-teixeira-2320031b7/)
 [![Instagram](https://img.shields.io/badge/Insta-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaaasco_2/)
 
-### Hey, I guess you want to take a look here 👋
+### Hey, take a look at my profile! 👋
 
 - 🔭 I’m currently working on Discord Bot
 - 🌱 I’m currently learning programming languages

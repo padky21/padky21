@@ -8,10 +8,8 @@
 - 🌱 I’m currently learning programming languages
 - 📫 How to reach me: padky21@gmail.com
 
-## 🚡 Connect with me :
+## Contact me :
 
-[<img align="left" alt="aderitoneto.github.io" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/web.png"/>][website]
-[<img align="left" alt="AN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>][twitter]
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
 [<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>][instagram]
 <br />

@@ -10,6 +10,6 @@
 
 ## Contact me :
 
-[<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
-[<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>][instagram]
+[<img align="left" alt="AN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>]
+[<img align="left" alt="AN | Instagram" width="22px" src="https://raw.githubusercontent.com/AderitoNeto/AderitoNeto/master/img/ig.png"/>]
 <br />
